@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dotenv
+pydantic>=2
+google-genai
+tavily-python
